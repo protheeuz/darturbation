@@ -78,4 +78,4 @@ import 'package:darturbation/darturbation.dart';
 Navigator.of(context).push(RotationTransitionPage(page: YourNextPage()));
 ```
 ### Example
-Check the example[`lib/example/main.dart`] directory for a complete example of how to use this package.
+Check the [example](lib/example/main.dart) directory for a complete example of how to use this package.
